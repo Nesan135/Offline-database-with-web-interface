@@ -16,9 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 #to run the code with two terminals for mongodb and vue separately
 #mongodb
@@ -28,3 +25,7 @@ node server.js
 #vue
 cd vueapp-01
 npm run dev
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
